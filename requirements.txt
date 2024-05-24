@@ -1,0 +1,9 @@
+pybase64
+pdf2image
+python-docx
+google-generativeai
+python-dotenv
+requests
+streamlit
+poppler-utils
+flask
